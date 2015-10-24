@@ -1,1 +1,9 @@
-Hello world
+﻿Hello world C.H.
+
+"I like chicken" K.V
+
+“I like ground turkey” T.L
+
+"I like tuna" YH
+
+"I like burgers" GJ
